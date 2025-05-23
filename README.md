@@ -1,4 +1,4 @@
-# MoviesCope
+# Moviescope
 
 [Live Demo](https://movies-cope.netlify.app/)
 
