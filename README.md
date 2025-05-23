@@ -1,4 +1,4 @@
-<img width="941" alt="image" src="https://github.com/user-attachments/assets/9d5a2150-0bf5-4a95-9d65-1adb3aab45ae" /># MoviesCope
+# MoviesCope
 
 [Live Demo](https://movies-cope.netlify.app/)
 
@@ -44,17 +44,15 @@ This project uses **The Movie Database (TMDb) API** to fetch movie data, includi
 ## Screenshots
 
 ### Home Page  
-![Home Page]<img width="631" alt="image" src="https://github.com/user-attachments/assets/c0993937-550e-424e-b2bf-4016dd95f0ac" />
+![Home Page](https://github.com/user-attachments/assets/c0993937-550e-424e-b2bf-4016dd95f0ac)
 
 ### Search Feature  
-![Search Feature]<img width="622" alt="image" src="https://github.com/user-attachments/assets/6aa42e7c-397c-4900-84bc-e63c7e53b377" />
-
+![Search Feature](https://github.com/user-attachments/assets/6aa42e7c-397c-4900-84bc-e63c7e53b377)
 
 ### Favourites Page  
-![Favourites Page]<img width="941" alt="image" src="https://github.com/user-attachments/assets/fff1ae49-2406-405a-92db-239e05113dba" />
+![Favourites Page](https://github.com/user-attachments/assets/fff1ae49-2406-405a-92db-239e05113dba)
 
 
-*Note: Replace the image paths above (`./screenshots/home.png`, etc.) with the actual paths or URLs of your screenshots.*
 
 ---
 
